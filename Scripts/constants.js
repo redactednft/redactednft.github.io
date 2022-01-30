@@ -60,7 +60,7 @@ var constants = {
 	max_height      : 15,
 	jumping_v       : 27,
 	walking_v       : 5,
-	mushroom_v      : 10,
+	mushroom_v      : 3,
 	ballmonster_v   : 2,
 	spiked_turtle_v : 1.5,
 	small_turtle_v  : 3,
