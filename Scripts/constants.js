@@ -54,7 +54,7 @@ var constants = {
 	interval        : 20,
 	bounce          : 15,
 	cooldown        : 20,
-	gravity         : 1,
+	gravity         : 2,
 	start_lives     : 3,
 	max_width       : 400,
 	max_height      : 15,
